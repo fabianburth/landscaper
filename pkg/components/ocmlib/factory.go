@@ -7,7 +7,6 @@ package ocmlib
 import (
 	"context"
 	"fmt"
-
 	ocmutils "github.com/open-component-model/ocm/pkg/contexts/ocm/utils"
 
 	"github.com/gardener/landscaper/controller-utils/pkg/logging"
